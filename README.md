@@ -1,0 +1,1 @@
+All images used in this project are sourced from Unsplash, a website dedicated to sharing high-quality, royalty-free photography. Unsplash allows anyone to use and modify their photos for both personal and commercial purposes without requiring attribution or payment.
