@@ -1,4 +1,4 @@
 # GeekStore
 This is a repository containing only HTML and CSS files to create a simple geek catalog website. The website is divided into two sections: a list of action figures and a list of posters. Each section contains a grid of items with an image, title, and price. Clicking on an item opens a modal window with more information about the product, including a detailed description and buy buttons. The design is responsive and adapts to different screen sizes, ensuring users can view the catalog on both mobile devices and desktops. With this repository, it is possible to create a simple and functional geek catalog website using only HTML and CSS.
 All images used in this project are sourced from Unsplash, a website dedicated to sharing high-quality, royalty-free photography. Unsplash allows anyone to use and modify their photos for both personal and commercial purposes without requiring attribution or payment.
-Access at: https://geekstore-three.vercel.app/
+You can access the website at: https://geekstore-three.vercel.app/
