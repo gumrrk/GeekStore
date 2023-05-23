@@ -144,7 +144,7 @@ function createManyCards(products, listId) {
 createManyCards(listFrames, "paintingsProducts");
 createManyCards(listFigures, "actionProducts");
 
-/* Adicionando o evento para ativar o botão e mudar sua cor quando clicado */
+
 
 const buttons = document.querySelectorAll('.my-button');
 
@@ -158,7 +158,7 @@ buttons.forEach(button => {
     });
 });
 
-/* Dark Theme */
+
 
 let buttonToggle = document.querySelector(`.dark-button`);
 let themeStyle = document.getElementById(`theme-style`)
